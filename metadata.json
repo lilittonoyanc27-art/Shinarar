@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Learning Construction Game",
+  "description": "An interactive Spanish language educational game from Armenian, themed in construction, featuring 10 mini-games that build a virtual house upon completing exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
